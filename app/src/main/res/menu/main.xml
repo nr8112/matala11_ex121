@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="תלמיד חדש" />
+    <item android:title="להכנס ציונים " />
+    <item android:title="ציונים" />
+    <item android:title=" תלמידים" />
+    <item android:title="Credits" />
+</menu>
